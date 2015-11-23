@@ -1,0 +1,36 @@
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\csc.exe
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\vbc.exe
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\MyWingtipToys.dll.config
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\MyWingtipToys.dll
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\bin\MyWingtipToys.pdb
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\obj\Debug\MyWingtipToys.dll
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\obj\Debug\MyWingtipToys.pdb
+C:\Users\Dusan\documents\visual studio 2015\Projects\MyWingtipToys\MyWingtipToys\obj\Debug\MyWingtipToys.csprojResolveAssemblyReference.cache
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\csc.exe
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\vbc.exe
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\VBCSCompiler.exe
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\MyWingtipToys.dll.config
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\MyWingtipToys.dll
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\bin\MyWingtipToys.pdb
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\obj\Debug\MyWingtipToys.csprojResolveAssemblyReference.cache
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\obj\Debug\MyWingtipToys.dll
+C:\Users\dusan\Desktop\MyWingtipToys\MyWingtipToys\obj\Debug\MyWingtipToys.pdb
